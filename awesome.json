@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Sandboxes",
+  "repo": "ianwieds/awesome-agent-sandboxes",
+  "tagline": "Sandboxes, isolated runtimes and secure execution environments where AI agents run code and browse safely.",
+  "scope": "It is about isolated execution for AI agents, not a general container or VM product with no agent story.",
+  "accent": "0EA5E9",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a control block sends job packets down a lane into a row of glass-walled rooms on pedestals, where each room raises its walls around an agent cube, prints code on its floor, then sinks its walls and clears."
 }

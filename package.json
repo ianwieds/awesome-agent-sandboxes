@@ -1,8 +1,8 @@
 {
-  "name": "awesome-template",
+  "name": "awesome-agent-sandboxes",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub template for a curated awesome list, with checked pull requests.",
+  "description": "Sandboxes, isolated runtimes and secure execution environments where AI agents run code and browse safely.",
   "license": "CC0-1.0",
   "scripts": {
     "test": "node --test \"tests/*.test.js\"",
