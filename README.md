@@ -51,6 +51,7 @@ An agent sandbox is an isolated place where an AI agent can run code, use a shel
 - [Novita Sandbox](https://novita.ai/sandbox) - Cloud runtimes with a filesystem, browser access and computer use for agents.
 - [Riza](https://riza.io) - Isolated runtime API that executes untrusted code written by an LLM.
 - [Runloop](https://runloop.ai) - Devboxes for coding agents with snapshots, repository connections and benchmarks.
+- [Sandbox0](https://sandbox0.ai) - Managed cloud computers for agents that retain writable files across checkpoints.
 - [Sprites](https://fly.io/sprites) - Persistent Firecracker VMs from Fly.io with checkpoint and restore.
 - [Tensorlake](https://www.tensorlake.ai) - Firecracker sandboxes for LLM-generated code that scale from one to thousands.
 - [Together Sandbox](https://www.together.ai/sandbox) - VMs with snapshots, resizable CPU and memory, and persistent storage for agents.
