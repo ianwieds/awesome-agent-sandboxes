@@ -216,10 +216,10 @@ An agent sandbox is an isolated place where an AI agent can run code, use a shel
 - [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Sandboxes for AI coding agents, ordered by security posture, with a comparison matrix.
 - [Awesome Docker Sandboxes](https://github.com/ajeetraina/awesome-docker-sbx) - Tools, templates and resources for running coding agents in Docker Sandboxes.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
