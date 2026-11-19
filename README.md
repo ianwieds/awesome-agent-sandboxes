@@ -211,6 +211,7 @@ An agent sandbox is an isolated place where an AI agent can run code, use a shel
 
 ## Related lists
 
+- [AgentSandboxes](https://agentsandboxes.fyi) - Index of cloud sandbox providers with source-linked specs, prices and a REST API.
 - [Awesome Agent Sandboxes (arjan)](https://github.com/arjan/awesome-agent-sandboxes) - Short list of cloud and self-hosted code execution sandboxes for agents.
 - [Awesome Agent Sandboxes (dloss)](https://github.com/dloss/awesome-agent-sandboxes) - Agent sandboxes grouped by isolation layer, from microVMs to WebAssembly.
 - [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Sandboxes for AI coding agents, ordered by security posture, with a comparison matrix.
